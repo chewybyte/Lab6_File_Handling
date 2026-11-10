@@ -1,0 +1,5 @@
+Student: Rojas
+Student ID: TUPM-26-1244
+Seed digit: 4
+ID sum: 19
+Verification value: 99

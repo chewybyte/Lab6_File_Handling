@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Rojas
+Student ID: TUPM-26-1244
+Seed Digit: 4
+ID Sum: 19
+Verification Value: 99
+Dataset Sample Size: 69
+Valid Records: 69
+Average Global Active Power: 4.041
+JSON File: Rojas_TUPM-26-1244_record.json
+Backup File: Rojas_TUPM-26-1244_record.csv
