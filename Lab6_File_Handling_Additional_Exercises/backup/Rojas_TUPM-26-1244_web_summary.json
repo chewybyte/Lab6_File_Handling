@@ -1,0 +1,37 @@
+{
+    "last_name": "Rojas",
+    "student_id": "TUPM-26-1244",
+    "records_processed": 1019,
+    "invalid_records": 0,
+    "target_status_class": "2xx",
+    "records_in_target_class": 850,
+    "count_per_status_code": {
+        "200": 842,
+        "206": 8,
+        "302": 143,
+        "304": 21,
+        "404": 5
+    },
+    "top_5_urls": [
+        {
+            "url": "GET /login.php HTTP/1.1",
+            "count": 104
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "count": 91
+        },
+        {
+            "url": "GET /css/normalize.css HTTP/1.1",
+            "count": 38
+        },
+        {
+            "url": "GET /css/bootstrap.min.css HTTP/1.1",
+            "count": 37
+        },
+        {
+            "url": "GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1",
+            "count": 37
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Student: Rojas (TUPM-26-1244)
+Target Year: 2019
+Incidents in Target Year: 263
+
+Incident Count per Attack Type:
+  DDoS: 48
+  Phishing: 45
+  SQL Injection: 45
+  Man-in-the-Middle: 44
+  Malware: 43
+  Ransomware: 38
+
+Total Financial Loss (USD millions): 13134.69
+Average Financial Loss (USD millions): 49.94
+
+Five Costliest Incidents:
+  1. Phishing - Germany - $99.97 M
+  2. Man-in-the-Middle - Russia - $99.53 M
+  3. Phishing - UK - $99.45 M
+  4. Ransomware - Germany - $99.3 M
+  5. SQL Injection - Australia - $99.2 M
+
+Output Files:
+  Filtered CSV: Rojas_TUPM-26-1244_incidents_2019.csv
+  JSON Summary: Rojas_TUPM-26-1244_top5_incidents.json
+  Backup: Rojas_TUPM-26-1244_top5_incidents.json (exists: True)

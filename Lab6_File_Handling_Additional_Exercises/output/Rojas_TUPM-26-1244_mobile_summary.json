@@ -1,0 +1,13 @@
+{
+    "last_name": "Rojas",
+    "student_id": "TUPM-26-1244",
+    "operating_system": "Android",
+    "behavior_class": 5,
+    "total_records": 1000,
+    "os_matches": 801,
+    "selected_records": 152,
+    "average_battery_drain_mAh_day": 2711.678,
+    "average_data_usage_MB_day": 1996.513,
+    "exported_row_count": 152,
+    "count_verified": true
+}
